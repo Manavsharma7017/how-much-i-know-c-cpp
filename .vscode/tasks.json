@@ -30,7 +30,7 @@
         "-g",
         "${file}",
         "-o",
-        "${fileDirname}\\${fileBasenameNoExtension}.exe"
+        "${fileDirname}\\man.exe"
       ],
       "options": {
         "cwd": "${fileDirname}"
