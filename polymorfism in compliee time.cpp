@@ -25,6 +25,6 @@ int main(){
     one.fu("manav");
     obj1.a=4;
     obj2.a=7;
-    obj1+obj2;
+    obj1+obj2;//obj1 ka Lia and obj2  ko
 
 }
